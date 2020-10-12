@@ -48,8 +48,15 @@ for mine in structured_data:
     img_relative_path = f"./minas_abandonadas/images/{img_name}"
     with open(img_relative_path, 'wb') as F:
         F.write(mine['img_binary'])
-    img_link = KML.Link( KML.href(img_relative_path) )
-    
+
+    # NOTE: para construir un KMZ
+    # img_link = KML.Link( KML.href(img_relative_path) )
+
+    img_link = GX.Carousel(
+        GX.Image(
+            GX.ImageUrl(f"https://raw.githubusercontent.com/grossir/blog-content/main/tika-minas/minas_abandonadas/images/{img_name}")
+        )
+    )
     point = KML.Point(KML.coordinates(f"{lon},{lat},0"))
     lookat = KML.LookAt(
         KML.latitude(lat),
