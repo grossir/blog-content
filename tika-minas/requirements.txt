@@ -1,0 +1,5 @@
+pykml==0.2.0
+tika==1.23
+requests==2.22.0
+pyproj==2.6.1.post1
+lxml==4.4.2

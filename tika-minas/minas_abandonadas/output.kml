@@ -1,0 +1,432 @@
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <Name>Test</Name>
+    <Placemark>
+      <name>TAMBOMACHAY</name>
+      <Point>
+        <coordinates>-71.9580262902806,-13.473573663028441,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera pavimentada a calca a la altura del km. 10, a partir del cual el acceso es por un camino de herradura de 2 km. hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al norte de la ciudad del cusco, en el flanco izquierdo del rio puncu. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: En el area se tienen afloramientos de rocas sedimentarias, principalmente areniscas de color verdosas algo silicificadas, con intercalacion de limolitas de color marron oscuro que pertenece a la formacion lucre.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de cobre. los minerales mas importantes que se han encontrado en la zona son: malaquita, crisocola, cuprita, limonita, hematita y cuarzo.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/TAMBOMACHAY.jpg</href>
+      </Link>
+	<gx:Carousel>
+		<gx:Image>
+			<gx:ImageUrl>
+				https://contrata.pe/static/img/og_blog_carta1.png
+			</gx:ImageUrl>
+		</gx:Image>
+	</gx:Carousel>
+    </Placemark>
+    <Placemark>
+      <name>AJALA (CAYMA)</name>
+      <Point>
+        <coordinates>-71.3311734234715,-14.19861293909647,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de una trocha carrozable de 1 km., a partir del cual el acceso es por un camino de herradura de 1 km. hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al oeste del distrito de san pablo, en el flanco izquierdo del rio vilcanota, cerca a la localidad de paricocha. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: Se tiene afloramientos de rocas sedimentarias, principalmente areniscas de color rojizo y verdosas intercaladas con limolitas de color marron oscuro. el yacimiento es principalmente de cobre-oro. la mayor parte de las labores se encuentran derrumbadas.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de cobre-oro. los minerales mas importantes que se han encontrado en la zona son: malaquita, crisocola, cuprita, limonita, hematita, cuarzo y oro.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/AJALA_(CAYMA).jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>CHAMPACANCHA</name>
+      <Point>
+        <coordinates>-71.05654596883807,-14.412632808303218,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera pavimentada a la raya hasta el km. 13.5, a partir del cual el acceso es por una trocha carrozable de 5 km. hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al sureste del distrito de marangani, en el flanco derecho del rio canta canta. distrito de marangani, provincia de canchis. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: En el area se tienen afloramientos de rocas sedimentarias, principalmente de lutitas pizarrosas. los planos de foliacion y el fracturamiento de las rocas han favorecido para que la mineralizacion se presente en vetas.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de antimonio-plata. los minerales mas importantes en la zona son: estibina, galena argentifera, cuarzo, pirita, limonita y hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/CHAMPACANCHA.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>FRANCISCA N&#186; 3 (ACCOCUNCA)</name>
+      <Point>
+        <coordinates>-71.05928572003599,-14.41515722829909,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera pavimentada a la raya hasta el km. 13.5, a partir del cual el acceso es por una trocha carrozable de 4.5 km. hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al sureste del distrito de marangani, en el flanco derecho del rio canta canta. distrito de marangani, provincia de canchis. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: En el area se tienen afloramientos de rocas sedimentarias, principalmente de lutitas pizarrosas. los planos de foliacion y el fracturamiento de las rocas han favorecido para que la mineralizacion se presente en forma de vetas.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de antimonio-plata. los minerales mas importantes son: estibina, galena argentifera, cuarzo, pirita, limonita y hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/FRANCISCA_N&#186;_3_(ACCOCUNCA).jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>CANTA CANTA</name>
+      <Point>
+        <coordinates>-71.05055070845914,-14.41807979582025,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera pavimentada a la raya hasta el km. 13.5, a partir del cual el acceso es por una trocha carrozable de 6.5 km. hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al sureste del distrito de marangani, en el flanco izquierdo del rio canta canta. distrito de marangani, provincia de canchis. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: En el area se tiene afloramientos de rocas sedimentarias, principalmente de areniscas limosas intercaladas con lutitas pizarrosas y pizarras. la quebrada presenta despositos de huaycos antiguos, habiendose formado un gran cono aluvial.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de antimonio-plata. los minerales mas importantes son: estibina, galena argentifera, cuarzo, pirita, limonita y hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/CANTA_CANTA.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>ANTACCASA</name>
+      <Point>
+        <coordinates>-71.07640598633266,-14.422688222853944,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera pavimentada a la raya hasta el km. 13.5, a partir del cual el acceso es por una trocha carrozable que pasa por la hacienda antaccasa de 2.8 km. hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al sureste del distrito de marangani, en el flanco derecho del rio vilcanota, cerca de la hacienda antaccasa. distrito de marangani, provincia de canchis. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: En el area se tiene afloramientos de rocas sedimentarias y metamorficas, constituidos principalmente por lutitas carbonosas y pizarras negras. los planos de estratificacion y el fracturamiento de rocas hacen para que la mineralizacion se presente en vetas&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de antimonio-plata. los minerales mas importantes que se han encontrado en la zona son: estibina, galena argentifera, cuarzo, calcopirita, pirita, limonita y hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/ANTACCASA.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>PLANTA CONCENTRADORA SULLCA</name>
+      <Point>
+        <coordinates>-71.1880573006146,-14.347774606856166,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera pavimentada de marangani a sicuani hasta el km. 1, a partir del cual el acceso es por trocha carrozable de 2.5 km. hasta la planta.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al noroeste del distrito de marangani, en el flanco derecho del rio sullca. distrito de marangani, provincia de canchis. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: Se tienen afloramientos de rocas sedimentarias, constituidos principalmente por limolitas arcillosas de color rojizo intercaladas con areniscas del mismo color, que pertenecen al grupo mitu.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: La planta principalmente ha tratado dos tipos de minerales: antimonio y plata y otro grupo de minerales de cobre, no se han encontrado volumenes importantes de oxidos de fierro ni de sulfuros.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/PLANTA_CONCENTRADORA_SULLCA.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>AGUATAQUENA</name>
+      <Point>
+        <coordinates>-71.21225537222584,-14.375018761383709,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera pavimentada de marangani a sicuani hasta el km. 2, a partir del cual el acceso es por una trocha carrozable de 5 km., a partir del cual el acceso es por un camino de herradura de 2 km. hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al suroeste del distrito de marangani, en el flanco derecho de la quebrada comayacu. distrito de marangani, provincia de canchis. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: Se tienen afloramientos de rocas sedimentarias, principalmente de areniscas limosas de color gris verdosos en estratos de 2 m. de espesor, con un rumbo n26&#186;e y un buzamiento de 55&#186;sw que pertenecen a la formacion cotocucho-mu&#241;ani.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de cobre. los minerales mas importantes que se han encontrado son: malaquita, crisocola, cuprita, limonita y hematita, cuarzo.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/AGUATAQUENA.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>CARACCOTO N&#186; 1</name>
+      <Point>
+        <coordinates>-71.22609908820385,-14.338014220224174,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera pavimentada de marangani a sicuani hasta el km. 2, a partir del cual el acceso es por una trocha carrozable de 6 km., a partir del cual el acceso es por un camino de herradura de 2 km. hasta la mina&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al noroeste del distrito de marangani, en el c&#186; cuchillada de ticaloma cerca a la comunidad de caraccoto. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: Se tienen afloramientos de rocas sedimentarias, principalmente de areniscas limosas de color gris verdoso en estratos de 0.8 m. de espesor, intercaladas con limolitas de color rojizo y con un rumbo de n20&#186;e y un buzamiento de 65&#186;nw.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de cobre. los minerales mas importantes son: malaquita, crisocola, cuprita, limonita y hematita, cuarzo.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/CARACCOTO_N&#186;_1.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>CARACCOTO N&#186; 2</name>
+      <Point>
+        <coordinates>-71.22147611925266,-14.340994180265508,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera pavimentada de marangani a sicuani hasta el km.2, a partir del cual el acceso es por una trocha carrozable de 6 km, a partir del cual el acceso es por un camino de herradura de 2.5 km. hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al noroeste del distrito de marangani, en el c&#186; cuchillada de ticaloma cerca a la comunidad de caraccoto. distrito de marangani, provincia de canchis. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: Se tienen afloramientos de rocas sedimentarias, principalmente de areniscas limosas de color gris verdosos en estratos de 0.30 m. de espesor, intercaladas con limolitas y lutitas de color rojizo, con rumbo n20&#186;w y buzamiento 35&#186;sw.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de cobre. los minerales mas importantes que se han encontrado son: malaquita, crisocola, limonita y hematita, cuarzo.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/CARACCOTO_N&#186;_2.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>LAS FLORES N&#186; 3 (CHOCHEQUE&#209;A)</name>
+      <Point>
+        <coordinates>-71.31750336021044,-14.377688695940849,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera sicuani a langui hasta el km. 23.5, a partir del cual el acceso es por un camino de herradura de 1.5. km. (cruzando el rio langui), hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al suroeste de la ciudad de sicuani, en el flanco derecho del rio langui, cerca de la comunidad de &#241;ahui. distrito de langui, provincia de canas. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: Se tienen afloramientos de rocas sedimentarias, principalmente de areniscas limosas de color gris verdosos en estratos de 0.3 m. de espesor, intercaladas con limolitas y lutitas de color rojizo con rumbo n55&#186;w y buzamiento 70&#186;ne.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de cobre. los minerales mas importantes que se han encontrado son: malaquita, crisocola, azurita, limonita y hematita, cuarzo.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/LAS_FLORES_N&#186;_3_(CHOCHEQUE&#209;A).jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>ROCIO DEL CARMEN-CHOCHEQUE&#209;A 2</name>
+      <Point>
+        <coordinates>-71.31654285577206,-14.379821373005791,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera sicuani a langui hasta el km. 23.5, a partir del cual el acceso es por un camino de herradura de 1 km. (cruzando el rio langui), hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al suroeste de la ciudad de sicuani, en el flanco derecho del rio langui, cerca a la comunidad de &#241;ahui. distrito de langui, provincia de canas. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: Se tienen afloramientos de rocas sedimentarias, principalmente de areniscas limosas de color gris verdodos en estratos de 0,4 m. de espesor, intercaladas con limolitas y lutitas de color rojizo con rumbo n30&#186;w y buzamiento 60&#186;ne.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de cobre. los minerales mas importantes que se han encontrado son: malaquita, crisocola, azurita, limonita y hematita, cuarzo.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/ROCIO_DEL_CARMEN-CHOCHEQUE&#209;A_2.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>TACLLO</name>
+      <Point>
+        <coordinates>-71.13416276737351,-14.470642641483344,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera layo a antapampa hasta el km. 4.5, a partir del cual el acceso es por una trocha carrozable de 6 km. y camino de herradura de 2.5 km. hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al noroeste del distrito de layo, en el flanco izquierdo de la quebrada taquipalca. distrito de layo, provincia de canas. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: Se tienen afloramientos de rocas sedimentarias, principalmente de areniscas limosasde color gris verdosos en estratos de 0.6 m. de espesor, intercaladas con limolitas y lutitas de color rojizo, con rumbo n65&#186;w y buzamiento 80&#186;sw.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de cobre. los minerales mas importantes que se han encontrado son: malaquita, crisocola, limonita y hematita, cuarzo.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/TACLLO.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>CONDOROMA</name>
+      <Point>
+        <coordinates>-71.07808149764415,-14.921863983715753,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera pavimentada de yauri a arequipa hasta el km. 80 (desvio canchinita), a partir del cual el acceso es por una trocha carrozable que pasa por el distrito de condoroma hasta el km. 17 donde se encuentra la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al sureste del distrito de yauri, en ambos flancos del rio condoroma. distrito de condoroma, provincia de espinar. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: Se tienen principalmente afloramientos de rocas volcanicas, constituida por derrames de composicion andesiticas, daciticas, traquiandesiticas y riodaciticas; estas rocas tienen generalmente textura porfiritica, de coloracion gris oscura.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de plata. los minerales mas importantes que se han encontrado son: plata nativa-proustita, pirargirita, galena, baritina, calcita, cuarzo, limonita/hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/CONDOROMA.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>RAYMONDI</name>
+      <Point>
+        <coordinates>-71.07336662279103,-14.941858512824465,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: Por la carretera pavimentada de yauri a arequipa hasta el km. 80 (desvio canchinita), luego por una trocha carrozable que pasa por el distrito de condoroma hasta el km.10 de donde se tiene un desvio que cruza el cauce del rio lulimayo hasta el valle.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al sureste del distrito de yauri, en un valle encajonado por el rio lulimayo. distrito de condoroma, provincia de espinar. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: Se tienen afloramientos de rocas volcanicas, constituida por derrames de composicion andesiticas, daciticas, traquiandesiticas y riodaciticas; estas rocas tienen generalmente textura porfiritica, de coloracion gris oscura.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de plata. los minerales mas importantes que se han encontrado son: plata nativa-proustita, pirargirita, galena, baritina, calcita, cuarzo, limonita/hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/RAYMONDI.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>LOS ANDES S.A. (SUYCKUTAMBO)</name>
+      <Point>
+        <coordinates>-71.74846156302759,-15.069620696669327,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de una trocha carrozable de yauri a arequipa, pasando una gran parte del recorrido por el gran ca&#241;on formado por el rio cayomani, para llegar al cruce con la quebrada chila mayo, donde existe un desvio hasta la mina, totalizando 77 km. recorrido.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al suroeste del distrito de yauri, en la parte inicial de la quebrada suyckutambo y en el c&#186; cashajata. distrito de suyckutambo, provincia de espinar. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: Se tienen principalmente afloramientos de rocas volcanicas, constituida por derrames de composicion andesiticas, daciticas, traquiandesiticas y riodaciticas; estas rocas tienen generalmente textura porfiritica, de coloracion gris oscuro.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de oro y plata. los minerales mas importantes que se han encontrado son: oro, plata nativa-proustita, pirargirita, galena, pirita, cuarzo, limonita/hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/LOS_ANDES_S.A._(SUYCKUTAMBO).jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>SANTO TORIBIO</name>
+      <Point>
+        <coordinates>-71.79476546480602,-15.058568456794792,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de una trocha carrozable de yauri a arequipa, pasando una gran parte del recorrido por el gran ca&#241;on formado por el rio cayomani, para luego llegar al cruce con la quebrada chila mayo, donde existe un desvio hasta la mina, total 81 km. recorrido.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al suroeste del distrito de yauri, cerca a la quebrada huiscasora, en el c&#186; acosirca. distrito de suyckutambo, provincia de espinar. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: Se tienen principalmente afloramientos de rocas volcanicas, constituida por derrames de composicion andesiticas y traquiandesiticas, estas rocas tienen generalmente textura porfiritica, de coloracion gris oscuro.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de plata y cobre. los minerales mas importantes que se han encontrado son: proustita, pirargirita, galena, malaquita, pirita, cuarzo, limonita/hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/SANTO_TORIBIO.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>SAN MIGUEL</name>
+      <Point>
+        <coordinates>-71.81081852961785,-15.039547947021434,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de una trocha carrozable de yauri a arequipa, pasando una gran parte por el gran ca&#241;on formado por el rio cayomani, para luego llegar al cruce con la quebrada chila mayo donde existe un desvio hasta la mina (pasando por mina los andes y toribio)&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al suroeste del distrito de yauri, cerca a la laguna carhuataca y a la comunidad de carahualca. distrito de suyckutambo, provincia de espinar. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: Se tienen principalmente afloramientos de rocas volcanicas, constituida por derrames de composicion andesiticas, daciticas, traquiandesiticas y riodaciticas; estas rocas tienen generalmente textura porfiritica, de coloracion gris oscuro.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de plata y oro. los minerales mas importantes son: oro, plata nativa-proustita, pirargirita, galena, pirita, cuarzo, limonita/hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/SAN_MIGUEL.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>ATALAYA</name>
+      <Point>
+        <coordinates>-71.38472647806277,-14.955904708972817,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de una carretera afirmada de yauri a la mina, haciendo un recorrido de 20 km.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al sureste del distrito de yauri, provincia de espinar. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: Cubierto por depositos glaciales y aluviales del cuaternario. los pocos afloramientos que se observan corresponden a las calizas de la formacion ferrobamba e intrusivos de composicion dioritica y monzonitica.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de cobre. los minerales mas importantes que se han encontrado son: calcopirita, bornita, magnetita, pirita, crisocola, azurita, malaquita, calcosita, covelita, cuarzo, limonita/hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/ATALAYA.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>PUCAMOCCO</name>
+      <Point>
+        <coordinates>-71.53995164683185,-14.81220438301455,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: Desde el distrito a traves de un camino de herradura de 2 km. hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al suroeste del distrito de coporaque, en el flanco izquierdo de la quebrada huatanay. distrito de coporaque, provincia de espinar. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: Se tienen principalmente afloramientos de rocas volcanicas, constituida por derrames de composicion andesiticas ampliamente cubiertos por una cobertura edafologica y la vegetacion. este conjunto de rocas volcanicas pertenece a la formacion sennca.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de cobre. los minerales mas importantes que se han encontrado son: crisocola, malaquita, calcosita, cuarzo, limonita/hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/PUCAMOCCO.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>TAMBOMATE</name>
+      <Point>
+        <coordinates>-71.52146276200132,-14.816924484760152,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera afirmada que va de coporaque a yauri hasta el km. 3.5, a partir del cual el acceso es por una trocha carrozable de 3 km. hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al sureste de coporaque, en el cerro tambomate. distrito de coporaque, provincia de espinar. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: Se tienen principalmente afloramientos de rocas igneas intrusivas de composicion granodioritica y que por efectos del intemperismo ha dado lugar a la meteorizacion esferoidal. estas rocas estan siendo cortadas por diques de composicion andesiticas.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de oro y cobre. los minerales mas importantes que se han encontrado son: oro nativo, calcopirita, pirita, crisocola, malaquita, cuarzo. limonita/hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/TAMBOMATE.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>HUAYCCO</name>
+      <Point>
+        <coordinates>-71.9213506384945,-13.719622156387883,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: Partiendo de la carretera que pasa por el distrito de yaurisque, recorriendo un camino de herradura de aproximadamente 500 m. cerro arriba.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: A 50 km. al sur del cusco, en el camino carretero que pasa por el distrito de yaurique, antes de llegar al distrito de paccarecctambo, provincia de paruro. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: Se tienen afloramientos de rocas sedimentarias, principalmente areniscas de color verdosas intercaladas con limolitas y lutitas de color marron oscuro que pertenecen al grupo puno y cuyos estratos tienen un rumbo de n60&#186;w y buzamiento de 70&#186;ne.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de cobre. los minerales mas importantes que se han encontrado en la zona son: malaquita, crisocola, limonita y hematita, cuarzo.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/HUAYCCO.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>Q'ENQO</name>
+      <Point>
+        <coordinates>-72.05656819297894,-14.447376826450498,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de una trocha carrozable de 2.3 km. a partir del cual el acceso es por un camino de herradura de 3 km. hasta la mina, ascendiendo un cerro de aproximadamente 600 m. de altura.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al noreste del distrito de santo tomas, en el flanco izquierdo de la quebrada chincha. distrito de santo tomas, provincia de chumbivilcas. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: El area se encuentra ampliamente cubierto por la vegetacion de la zona y una cobertura edafologica y los pocos afloramientos rocosos corresponden a derrames lavicos de composicion andesitica, bastante alterado.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de oro. los minerales mas importantes encontrados en la zona son: oro, limonita y hematita, cuarzo.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/Q'ENQO.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>QUEQA&#209;A</name>
+      <Point>
+        <coordinates>-72.10764545994901,-14.351534967501925,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera afirmada de santo tomas a la comunidad de llusco, hasta el km. 20, a partir del cual el acceso es por un camino de herradura de 100 m.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al noreste del distrito de santo tomas. distrito de llusco, provincia de chumbivilcas. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: Afloramientos de rocas sedimentarias, principalmente de calizas de color negruzca que han sido intruidas por rocas plutonicas de composicion dioritica formando un skarn, que ha sido la roca favorable para que la mineralizacion se presente como cuerpos.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente polimetalico de plomo, zinc, cobre, oro, plata. los minerales mas importantes que se han encontrado en la zona son: galena argentifera, esfalerita, calcopirita, cuarzo, pirita, limonita y hematita, granates.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/QUEQA&#209;A.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>TACU TACU</name>
+      <Point>
+        <coordinates>-72.0375295604293,-14.37400476604313,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera afirmada de santo tomas a colquemarca en el km. 20, donde se tiene un desvio y el acceso es a traves de una trocha carrozable de 3 km. hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al noreste del distrito de santo tomas, provincia de chumbivilcas. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: El area se encuentra ampliamente cubierto por suelos y material coluvial del cuaternario. los pocos afloramientos rocosos que se observan se encuentran completamente alterados por la accion del intemperismo. la mineralizacion se presenta en vetas.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de oro. los minerales mas importantes que se han encontrado en la zona son: oro, cuarzo, pirita, limonita y hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/TACU_TACU.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>ANCOYO - CALZADA</name>
+      <Point>
+        <coordinates>-72.03425090173302,-14.308488603121683,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera afirmada de santo tomas a colquemarca en el km. 36, cerca a la zona conocida como el desvio, a partir del cual el acceso es por un camino de herradura de 200 m.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al noreste del distrito de santo tomas, provincia de chumbivilcas. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: El area se encuentra ampliamente cubierto por suelos y material coluvial del cuaternario. los pocos afloramientos rocosos corresponden a rocas intrusivas de composicion granodioritica las que se encuentran completamente alteradas.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de oro. los minerales mas importantes encontrados en la zona son: oro, cuarzo, pirita, limonita y hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/ANCOYO_-_CALZADA.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>LOROCCANI N&#186; 1</name>
+      <Point>
+        <coordinates>-72.04928582993334,-14.29334091059522,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de una trocha carrozable que sale de colquemarca a la comunidad de unupulla hasta el km. 3, a partir del cual al acceso es por un camino de herradura de 0.5 km. hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al noroeste del distrito de colquemarca, provincia de chumbivilcas. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: El area se encuentra ampliamente cubierto por suelos y material coluvial del cuaternario. los pocos afloramientos rocosos corresponden a rocas intrusivas de composicion granodioritica y dioritica del terciario inferior. la mineralizacion se presenta veta.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de oro. los minerales mas importantes que se han encontrado en la zona son: oro, cuarzo, limonita y hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/LOROCCANI_N&#186;_1.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>CAJAPATA FAHUATA</name>
+      <Point>
+        <coordinates>-72.05119727325797,-14.297320286583693,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera afirmada de colquemarca a unupulla hasta el km. 7, la mina se encuentra a 10 m. sobre la carretera.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al noroeste del distrito de colquemarca, provincia de chumbivilca. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: El area se encuentra ampliamente cubierto por suelos y material coluvial del cuaternario. los pocos afloramientos rocosos corresponden a rocas intrusivas de composicion granodioritica a dioritica del terciario inferior. la mineralizacion es una veta.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de oro. los minerales mas importantes que se han encontrado en la zona son: oro, cuarzo, limonita y hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/CAJAPATA_FAHUATA.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>LOROCCANI N&#186; 2 (CALVARIO)</name>
+      <Point>
+        <coordinates>-72.05003364628227,-14.283578444294264,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de un camino de herradura de 6 km. que sale de colquemarca hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al suroeste del distrito de colquemarca, provincia de chumbivilcas. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: El area se encuentra ampliamente cubierto por suelos y material coluvial del cuaternario. los pocos afloramientos rocosos corresponden a rocas intrusivas de composicion granodioritica a dioritica del terciario inferior. mineralizacion en vetas.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de oro. los minerales mas importantes que se han encontrado en la zona son: oro, cuarzo, pirita, limonita y hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/LOROCCANI_N&#186;_2_(CALVARIO).jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>PARCCORO</name>
+      <Point>
+        <coordinates>-72.00721944882117,-14.328532218692166,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera afirmada de colquemarca a velille hasta el km. 11, a partir del cual el acceso es por un camino de herradura de 0.5 km. hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al sureste del distrito de colquemarca, provincia de chumbivilca. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: El area se encuentra ampliamente cubierto por suelos, material coluvial del cuaternario y la vegetacion. los pocos afloramientos rocosos que se observan corresponden a rocas intrusivas de composicion granodioritica las que se encuentran alterados.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de oro. los minerales mas importantes que se han encontrado en la zona son: oro, cuarzo, pirita, limonita y hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/PARCCORO.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>PULPERA</name>
+      <Point>
+        <coordinates>-71.94525360699284,-14.429481422159338,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera afirmada de colquemarca a velille, hasta el km. 29, a partir del cual el acceso es por un camino de herradura de 0.5 km. hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al sureste del distrito de colquemarca, en el flanco izquierdo del rio tres vados. provincia de chumbivilca. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: El area se encuentra apliamente cubierto por suelos, material coluvial del cuaternario y la vegetacion. los pocos afloramientos rocosos corresponden a rocas intrusivas de composicion granodioritica del terciario inferior. mineralizacion en vetas.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de cobre (oro). los minerales mas importantes que se han encontrado en la zona son: malaquita, crisocola, pirita, limonita y hematita, cuarzo.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/PULPERA.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>FATIMA</name>
+      <Point>
+        <coordinates>-71.81249178685393,-14.537563543869542,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera afirmada de velille a yauri, hasta el km. 11, a partir del cual el acceso es por una trocha carrozable de 5 km. hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al sureste del distrito de velille, en el flanco izquierdo del rio uracpampa, provincia de chumbivilcas. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: El area se encuentra apliamente cubierto por suelos, material coluvial del cuaternario y la vegetacion. los pocos afloramientos rocosos corresponden a rocas intrusivas de composicion granodioritica a dioritica del terciario inferior.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de oro. los minerales mas importantes que se han encontrado en la zona son: oro, cuarzo, pirita, calcopirita, limonita y hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/FATIMA.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>KATANGA</name>
+      <Point>
+        <coordinates>-71.80107543513486,-14.426659544726673,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera afirmada desde velille hasta el km. 34, donde se encuentra ubicada la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al sureste del distrito de velille, en la margen derecha de la quebrada de hornada. distrito de chamaca, provincia de chumbivilcas. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: En el area se tiene afloramientos de rocas sedimentarias, principalmente de calizas gris oscura, dolomias, margas y lutitas, estratos que tienen rumbo n10&#186;w y buzamiento 65&#186;ne y que pertenecen a la formacion arcurquina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de cobre. los minerales mas importantes que se han encontrado en la zona son: malaquita, crisocola, calcopirita, pirita, limonita y hematita, cuarzo.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/KATANGA.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>NUEVA ESPERANZA</name>
+      <Point>
+        <coordinates>-71.65933506886394,-13.489517509230815,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de la carretera afirmada a paucartambo hasta el km. 70, a partir del cual el acceso es por una trocha carrozable de 2 km., para tomar un camino de herradura de 1 km. hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al noreste de la ciudad del cusco, en la margen derecha de la quebrada huantimayllina, distrito de huancarani, provincia de paucartambo. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: En el area se tienen afloramientos de rocas sedimentarios, principalmente de areniscas blancas, que por metamorfismo se presentan como cuarcitas. estos estratos tienen un rumbo n70&#186;w y buzamiento 70&#186;sw y pertenecen a la formacion urcos.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de cobre. los minerales mas importantes que se han encontrado en la zona son: malaquita, crisocola, limonita y hematita, cuarzo.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/NUEVA_ESPERANZA.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>SAUCIBAMBA</name>
+      <Point>
+        <coordinates>-71.50877199163897,-13.37986154946422,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de una trocha carrozable que sale de paucartambo hacia la comunidad de kallacancha, hasta el km. 17, a partir del cual el acceso es por una trocha en construccion de 0.5 km.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al sureste del distrito de paucartambo, en la margen derecha del rio pumachaca, distrito y provincia de paucartambo. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: El area se encuentra ampliamente cubierto por suelos, material coluvial del cuaternario y la vegetacion. los pocos afloramientos rocosos corresponden a rocas sedimentarias principalmente de calizas dolomiticas de color gris negrusco.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de oro. los minerales mas importantes encontrados son: oro, cuarzo, limonita/hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/SAUCIBAMBA.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>MAYUTINCCO</name>
+      <Point>
+        <coordinates>-71.41251401382668,-13.629744818798144,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de una trocha carrozable de paucartambo a ocongate hasta el km. 108, de donde se cruza el rio mayutincco para llegar a la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al sureste del distrito de paucartambo, provincia del mismo nombre. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: Al area se encuentra ampliamente cubierto por suelos, material coluvial del cuaternario y la vegetacion. los pocos afloramientos rocosos corresponden a rocas sedimentarias principalmente de lutitas pizarrosas que se metamorfizan a pizarras.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de oro. los minerales mas importantes que se han encontrado en la zona son: oro, cuarzo, limonita/hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/MAYUTINCCO.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>VISCAPATA</name>
+      <Point>
+        <coordinates>-71.37722315596098,-13.63150353090748,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de una carretera afirmada que sale de ocongate a puerto maldonado hasta el km. 1, a partir de aqui el acceso es por un camino de herradura de 1 km. hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al noroeste del distrito de ocongate, en la margen derecha del rio mapacho. provincia de quispicanchis. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: El area se encuentra ampliamente cubiertos por suelos, material coluvial del cuaternario y la vegetacion. los pocos afloramientos, rocosos corresponden a rocas sedimentarias de lutitas pizarrosas que tienen rumbo n40&#186;e y buzamiento 60&#186;se.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de oro. los minerales mas importantes que se tienen en la zona son: oro, cuarzo, limonita/hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/VISCAPATA.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>SAYHUA</name>
+      <Point>
+        <coordinates>-71.58234809361248,-15.04226177221951,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de un camino de herradura que sale de ccatca hasta el km. 2 donde esta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al noroeste del distrito de ccatca, en el flanco izquierdo de la quebrada tintichacayoc. provincia de quispicanchis. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: El area se encuentra ampliamente cubierto por suelos, material coluvial del cuaternario y la vegetacion. los pocos afloramientos rocosos corresponden a rocas sedimentarias de areniscas de color gris oscuro, que en algunos lugares pasan a cuarcitas.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de oro. los minerales mas importantes que se han encontrado en la zona son: oro, cuarzo, limonita/hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/SAYHUA.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>CANCHARAHUAY</name>
+      <Point>
+        <coordinates>-71.62419050132425,-13.650680607633976,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de una trocha carrozable que sale de urcos a la comunidad de huancara, hasta el km. 2, a partir de aqui se sigue por un camino de herradura que cruza la quebrada hasta el km. 1.5&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al sureste del distrito de urcos, en la margen izquierda de la quebrada canchauran, provincia de quispicancha. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: El area se encuentra ampliamente cubierto por suelos, material coluvial del cuaternario y la vegetacion. los pocos afloramientos rocosos corresponden a rocas sedimentarias de areniscas de color rojizo y gris verdosos. tienen un rumbo n70&#186;w y buz. 35&#186;sw.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de cobre. los minerales mas importantes que se han encontrado en la zona son: crisocola, malaquita, cuarzo, limonita/hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/CANCHARAHUAY.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>KASAPATA</name>
+      <Point>
+        <coordinates>-71.62142442182667,-13.707884601821732,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de una trocha carrozable que sale de urcos a la comunidad de huancara, hasta el km. 8, a partir de aqui se sigue por un camino de herradura de 2 km. hasta la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al sureste del distrito de urcos, en la margen derecha de la quebrada kasapata. provincia de quispicanchis. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: El area se encuentra ampliamente cubierto por suelos, material coluvial del cuaternario y la vegetacion. los pocos afloramientos rocosos corresponden a rocas sedimentarias de areniscas de color rojizo. tienen un rumbo n-s y buzamiento 60&#186;ne.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de cobre. los minerales mas importantes que se han encontrado en la zona son: crisocola, malaquita, cuarzo, limonita/hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/KASAPATA.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>MANTANAY</name>
+      <Point>
+        <coordinates>-72.16627414498389,-13.210462811682705,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: Por la carretera pavimentada que va de urubamba a ollantaytambo hasta el km. 2-yanahuara, luego el acceso es por una trocha carrozable accidentada y cubierta de vegetacion de 10 km. hasta la parte baja de la mina. luego por un camino de herradura de 6 km.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al noroeste del distrito de urubamba, en la margen derecha de la quebrada mantanay. provincia de urubamba. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: El area se encuentra ampliamente cubierto por suelos, material coluvial del cuaternario y la vegetacion. los pocos afloramientos rocosos corresponden a derrames volcanicos de composicion andesitica. tiene un rumbo n50&#186;e y buzamiento 45&#186;se.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de cobre. los minerales mas importantes que se han encontrado en la zona son: malaquita, crisocola, calcopirita, pirita, cuarzo, limonita/hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/MANTANAY.jpg</href>
+      </Link>
+    </Placemark>
+    <Placemark>
+      <name>SAN CRISTOBAL</name>
+      <Point>
+        <coordinates>-72.25901947315535,-13.430248534603987,0</coordinates>
+      </Point>
+      <description>&lt;![CDATA[ &lt;div&gt;&lt;b&gt;Acceso&lt;/b&gt;: A traves de una trocha carrozable que sale de zurite, pasando por un costado del cementerio hasta el km. 7, que es donde se encuentra la mina.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Ubicaci&#243;n&lt;/b&gt;: Al noreste del distrito de zurite, provincia de anta. coordenadas u . t . m .&lt;/div&gt; &lt;div&gt;&lt;b&gt;Geolog&#237;a&lt;/b&gt;: El area se encuentra ampliamente cubierto por suelos, material coluvial del cuaternario y la vegetacion. los afloramientos rocosos corresponden a rocas sedimentarias areniscas de color verdosas a rojizas. los estratos tienen un rumbo n25&#186;w y buz. 35&#186;sw.&lt;/div&gt; &lt;div&gt;&lt;b&gt;Mineralog&#237;a&lt;/b&gt;: El yacimiento es principalmente de cobre. los minerales mas importantes que se han encontrado en la zona son: malaquita, crisocola, cuarzo, baritina, limonita/hematita.&lt;/div&gt; ]]&gt;</description>
+      <Link>
+        <href>./minas_abandonadas/images/SAN_CRISTOBAL.jpg</href>
+      </Link>
+    </Placemark>
+  </Document>
+</kml>
